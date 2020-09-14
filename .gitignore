@@ -1,0 +1,7 @@
+# Windows:
+*.class
+*.log
+*.jar
+*.war
+*.mtj
+*.tmp
